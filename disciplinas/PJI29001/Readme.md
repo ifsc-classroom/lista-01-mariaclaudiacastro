@@ -31,20 +31,20 @@ Parte 1: O contexto profissional da engenharia de telecomunicações.Orientada a
 ## Procedimentos de Avaliação da Aprendizagem
 A avaliação do Projeto Integrador I será realizada da seguinte forma:
 
-- Avaliação 1: Resenhas relacionados às palestras/seminários que ocorrerão ao longo do semestre, critérios avaliativos:
+- **Avaliação 1:** Resenhas relacionados às palestras/seminários que ocorrerão ao longo do semestre, critérios avaliativos:
     - Escrita está clara, objetiva, coesa e coerente; (nota máxima 2,5)
     - As informações colocadas no texto são relevantes e respondem ao que foi solicitado; (nota máxima 2,5)
     - Utilização de linguagem adequada; (nota máxima 2,5)
     - Formatação e referências bibliográficas. (nota máxima 2,5)
 
-- Avaliação 2: Oficinas de desenvolvimento de APPs serão avaliadas através dos seguintes critérios:
+- **Avaliação 2:** Oficinas de desenvolvimento de APPs serão avaliadas através dos seguintes critérios:
     - Aplicou corretamente a metodologia Kanban via Trello; (nota máxima 2,5)
     - Fez o protótipo utilizando ferramenta adequada; (nota máxima 2,5)
     - Seguiu o roteiro disponibilizado no sistema acadêmico; (nota máxima 1,0)
     - Funcionalidade do aplicativo; (nota máxima 2,0)
     - Organização/layout do aplicativo adequada ao público alvo. (nota máxima 2,0)
 
-- Avaliação 3: Projeto final será avaliado em 6 etapas considerando os critérios:
+- **Avaliação 3:** Projeto final será avaliado em 6 etapas considerando os critérios:
     - A equipe realizou a especificação, prototipagem e o correto Kanban do projeto final; (nota máxima 2,0)
     - Entrega das funcionalidades mínimas do APP dentro do prazo solicitado; (nota máxima 1,5)
     - Entrega do manual de especificação de requisitos dentro do prazo solicitado; (nota máxima 1,5)
